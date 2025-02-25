@@ -1,0 +1,6 @@
+MESSAGE = "message"
+VALIDATION_ERRORS = "validation_errors"
+COUNT = "count"
+DATA = "data"
+LIMIT = "limit"
+PAGE = "page"
